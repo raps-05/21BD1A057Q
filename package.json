@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/raps-05/21BD1A057Q/issues"
   },
-  "homepage": "https://github.com/raps-05/21BD1A057Q#readme"
+  "homepage": "https://github.com/raps-05/21BD1A057Q#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
 }
